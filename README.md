@@ -1,8 +1,4 @@
-<p align="center">
-<img src="/logo.png" width="500"/>
-</p>
-
-# Dex Serializer
+# Game Serializer
 An accurate Roblox Binary Format Serializer made in Lua
 <p align="center">
 <img src="/server_save.png" width="800"/>
@@ -14,32 +10,7 @@ Executors are not recommended to use this serializer as is, since is not maintai
 It is recommended to wait for someone interested to fork this so they can take over the project and maintain it.  
 Or if you are interested in maintaining this GitHub repo itself, then please contact me in the community server.
 
-I do not use executors anymore so I had did small fixes to support the newer API dumps in studio, etc.  
-Go to [Suggested Improvements](#suggested-improvements) to see a list of improvements that can be made to this script.  
-Please see the [Known Issues](#known-issues) section for some issues that people I know have found when I had them test this script on executors.
-
-
-## Overview
-This serializer was completed in late 2020 in preperation for The Augur's reign that started in July 2021
-
-Many ServerScriptService and ServerStorage models of top games were saved during that era with top accuracy
-
-This serializer can save in both xml and binary format. It is more accurate in binary format since I stopped maintaining xml format after I finished making binary.
-
-
-This is old and discontinued, but the agency released it to show people the grand serializer that
-powered the saveinstance function in the top executors at the time before they were discontinued:
-- ScriptWare
-- Synapse X
-- Elysian
-
-Back then, the saveinstance scripts were horrible. The best one that Synapse had was the rerumu one which was so slow and inaccurate.
-
-The options in this serializer is also what UNC's saveinstance is based of, due to ScriptWare using this as its primary saveinstance implementation.
-
-Note that there are little to no comments since I didn't intend to release to public.
-
-It would be nice if executors supported this fully so in the event The Augur rises to power once again, that more accurate saves of ServerScriptService and ServerStorage can be done on today's top games
+I do not exploit, but found it an interesting challenge to recreate the saveinstance scripts of the day.
 
 
 ## How to Use
@@ -172,12 +143,6 @@ Here are some sugggestions for those interested in maintaining this script:
 
 ## Known Issues
  - None :3
-
-## Community Server
-If you would like to find more information, or talk to others interested in this script, you may join the server:<br>https://discord.gg/jnXFq2VBgU<br>
-Note that very limited to no support will be provided.
-
-<br>
 
 Made by Moon
 
