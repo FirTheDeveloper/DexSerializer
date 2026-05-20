@@ -144,6 +144,4 @@ Here are some sugggestions for those interested in maintaining this script:
 ## Known Issues
  - None :3
 
-Made by Moon
-
-<img src="/logo2.jpg" width="400"/>
+Made by Moon (based on Dex Serializer), edited by FirXD.
